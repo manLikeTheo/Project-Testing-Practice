@@ -1,0 +1,27 @@
+{
+  "name": "project-testing-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "capitalize.js",
+  "type": "module",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manLikeTheo/Project-Testing-Practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manLikeTheo/Project-Testing-Practice/issues"
+  },
+  "homepage": "https://github.com/manLikeTheo/Project-Testing-Practice#readme",
+  "devDependencies": {
+    "@babel/core": "^7.22.5",
+    "@babel/preset-env": "^7.22.5",
+    "babel-jest": "^29.5.0",
+    "jest": "^29.5.0"
+  }
+}
